@@ -47,6 +47,8 @@
 
 ### Capitulo 10 
 
+![CAPITULO 10 CIRCUITOS ](https://user-images.githubusercontent.com/84588860/126078100-3df548d0-01cf-43db-9d72-162399347701.jpeg)
+
 ## 3. Explicación y Resolución de ejercicios o problemas: 
 
 
