@@ -65,3 +65,5 @@
 
 Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning.
 
+Vargas, D. (2017). Capacitores y Capacitania. Universidad mayor de San Simon. Posgrado Facultativo de Ciencias y Tecnología.
+
