@@ -45,6 +45,8 @@
 
 ### Capitulo 9 
 
+![image](https://user-images.githubusercontent.com/85208164/126088468-1a6e9274-bf2d-4623-825d-3f1efcbdddb1.png)
+
 ### Capitulo 10 
 
 ![CAPITULO 10 CIRCUITOS ](https://user-images.githubusercontent.com/84588860/126078100-3df548d0-01cf-43db-9d72-162399347701.jpeg)
