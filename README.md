@@ -75,6 +75,11 @@
 
 •	Cuando es importante obtener la máxima transferencia de potencia, la resistencia de carga debe adaptarse a la resistencia interna en las fuentes de voltaje.
 
+•	El principio de Millán resulta cuando se tiene un circuito con solo dos nodos, es lo mismo se tienen dos resistencias en paralelo 
+
+•	En cualquier rama de una red o circuito, la corriente debida a una única fuente de voltaje (V) en la red es igual a la corriente a través de esa rama en la que se colocó originalmente la fuente cuando la fuente se coloca nuevamente en la rama en la que se obtuvo originalmente la corriente.
+
+
 
 
 ## 6. Bibliografia: 
