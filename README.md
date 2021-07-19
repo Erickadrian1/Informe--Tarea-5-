@@ -71,6 +71,10 @@
 
 •	Se aplicó adecuadamente las leyes de Kirchhoff dentro del experimento para poder hallar la resistencia y el voltaje.
 
+•	La potencia máxima será desarrollada en la carga cuando la resistencia de carga RL sea iguala la resistencia interna de la fuente Ri
+
+•	Cuando es importante obtener la máxima transferencia de potencia, la resistencia de carga debe adaptarse a la resistencia interna en las fuentes de voltaje.
+
 
 
 ## 6. Bibliografia: 
