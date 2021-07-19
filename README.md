@@ -63,6 +63,11 @@
 
 ## 5. Conclusiones: 
 
+• Se concluye que el teorema de superposición es válido, la tensión entre los extremos (o la corriente) de un elemento en un circuito lineal es la suma algebraica de las tensiones (o corrientes) a través de ese elemento.
+
+
+
+
 ## 6. Bibliografia: 
 
 Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning.
