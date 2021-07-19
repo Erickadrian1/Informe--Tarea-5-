@@ -65,6 +65,11 @@
 
 • Se concluye que el teorema de superposición es válido, la tensión entre los extremos (o la corriente) de un elemento en un circuito lineal es la suma algebraica de las tensiones (o corrientes) a través de ese elemento.
 
+•	Se   pudo   obtener   los   resultados   experimentalmente   y teóricamente   de   los   circuitos, a   través   del   teorema   de Thévenin
+
+•	Se   pudo   demostrar   experimentalmente   el   teorema   de Norton
+
+•	Se aplicó adecuadamente las leyes de Kirchhoff dentro del experimento para poder hallar la resistencia y el voltaje.
 
 
 
