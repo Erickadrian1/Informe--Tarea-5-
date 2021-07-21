@@ -56,6 +56,24 @@
 
 ### Ejercicios Capitulo 9 
 
+![1](https://user-images.githubusercontent.com/85208164/126421739-6d066e50-3f74-4949-88b4-0df18cbbbdf2.png)
+![2](https://user-images.githubusercontent.com/85208164/126421743-4157bcbe-c8a1-4c06-acfe-0ccdb017dcb1.png)
+![3](https://user-images.githubusercontent.com/85208164/126421745-0336d432-9ecf-4006-aed2-c7e7c8487d5d.png)
+![4](https://user-images.githubusercontent.com/85208164/126421746-a5e29a28-04ab-411a-b40b-4111eaf93eee.png)
+![5](https://user-images.githubusercontent.com/85208164/126421749-9eca8be3-8e9e-4172-921d-be2f7a41a93a.png)
+![6](https://user-images.githubusercontent.com/85208164/126421750-2743238a-6152-4fdc-a804-53ef2f57f08f.png)
+![7](https://user-images.githubusercontent.com/85208164/126421752-7677f564-1d38-429b-a588-f28b99aaccea.png)
+![8](https://user-images.githubusercontent.com/85208164/126421753-196a2350-53e3-4e63-b9c4-3098b3370a5b.png)
+![9](https://user-images.githubusercontent.com/85208164/126421755-f4bfaffa-67dc-40cc-8121-d92aa256bd1c.png)
+![10](https://user-images.githubusercontent.com/85208164/126421759-39362f45-7485-4222-a96f-bbc6fd3fc6f2.png)
+![11](https://user-images.githubusercontent.com/85208164/126421760-857afe68-767b-4607-9108-02db017eeb94.png)
+![12](https://user-images.githubusercontent.com/85208164/126421762-46396bb8-a823-43cb-8138-6863380812b0.png)
+![13](https://user-images.githubusercontent.com/85208164/126421763-25ac7733-0377-46f7-896f-3b03cb38db84.png)
+![14](https://user-images.githubusercontent.com/85208164/126421767-ed4d7037-2268-448a-bd62-25d5e5b0d05d.png)
+![15](https://user-images.githubusercontent.com/85208164/126421769-64ffbb4a-58f0-4d31-ad6a-c0d86270faca.png)
+
+
+
 ### Ejercicios Capitulo 10 
 
 
