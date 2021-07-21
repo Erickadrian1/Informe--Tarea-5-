@@ -79,6 +79,13 @@
 
 ## 4. Video: 
 
+Parte 1:
+https://www.youtube.com/watch?v=p79WR7U1IFs
+
+Parte 2:
+https://www.youtube.com/watch?v=KQjkS1JCcSQ
+
+
 ## 5. Conclusiones: 
 
 • Se concluye que el teorema de superposición es válido, la tensión entre los extremos (o la corriente) de un elemento en un circuito lineal es la suma algebraica de las tensiones (o corrientes) a través de ese elemento.
