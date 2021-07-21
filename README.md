@@ -105,12 +105,7 @@
 
 ## 4. Video: 
 
-Parte 1:
-https://www.youtube.com/watch?v=p79WR7U1IFs
-
-Parte 2:
-https://www.youtube.com/watch?v=KQjkS1JCcSQ
-
+https://www.youtube.com/watch?v=Z_BxQquZKDY
 
 ## 5. Conclusiones: 
 
